@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: asarkiscruz@gmail.com
 
 <div>
-  <a href="https://beacons.ai/adimarcruz">
+  <a href="https://beacons.ai/adimarcruz" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdimarSarkis&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AdimarSarkis&layout=compact&langs_count=16&theme=dracula'/>
 </div>
