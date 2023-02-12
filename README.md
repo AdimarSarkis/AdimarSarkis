@@ -1,7 +1,7 @@
 ### Olá, sou Adimar Sarkis 👋
 
-- 🔭 Atualmente atuando com desenvolvimento front-end
-- 🌱 Estudando ReactJs
+- 🔭 Atualmente atuando com desenvolvimento front-end e mobile
+- 🌱 Estudando ReactJs e flutter
 - 📫 Contate-me no email: asarkiscruz@gmail.com
 
 <div>
@@ -17,6 +17,13 @@
   <img align="center" alt="adimar-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="adimar-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="adimar-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="adimar-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="adimar-unity" background="white" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+  <img align="center" alt="adimar-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="adimar-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   
+          
+       
           
 </div>
 
